@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|solutionrelative:NeuralNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|solutionrelative:NeuralNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NetworkLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8088D55C-EEE8-436C-90A8-07E005E7DE98}|DIYNeuralNetwork.vcxproj|solutionrelative:NetworkLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T16:52:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NeuralNetwork.h",
+              "DocumentMoniker": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.h",
+              "RelativeDocumentMoniker": "NeuralNetwork.h",
+              "ToolTip": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.h",
+              "RelativeToolTip": "NeuralNetwork.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T16:47:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeuralNetwork.cpp",
+              "DocumentMoniker": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.cpp",
+              "RelativeDocumentMoniker": "NeuralNetwork.cpp",
+              "ToolTip": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NeuralNetwork.cpp",
+              "RelativeToolTip": "NeuralNetwork.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T16:44:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkLayer.cpp",
+              "DocumentMoniker": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NetworkLayer.cpp",
+              "RelativeDocumentMoniker": "NetworkLayer.cpp",
+              "ToolTip": "C:\\Users\\jacob.mund\\Neural-Network-from-Scratch\\DIYNeuralNetwork\\NetworkLayer.cpp",
+              "RelativeToolTip": "NetworkLayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T16:44:00.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
